@@ -1,0 +1,6 @@
+{
+  "name": "Pustaka Nusantara",
+  "description": "Perpustakaan digital berbahasa Indonesia untuk menjelajahi katalog, meminjam buku, mengelola koleksi, dan membaca cuplikan bab pertama dengan nyaman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
